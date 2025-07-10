@@ -14,7 +14,7 @@ html {
 #hero{
     position: relative;
     height: 100vh;
-    background-image: url(/image/pexels-valeriya-1833349.jpg);
+    background-image: url(image/pexels-valeriya-1833349.jpg);
     background-size: cover;
     background-position: 50% 70%;
     background-repeat: no-repeat;
